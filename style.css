@@ -105,7 +105,11 @@ footer{
     color:cadetblue;
     
 }
+footer h4{
+    padding-top: 10px;
+}
 .eat{
     color: cornflowerblue;
 
 }
+
