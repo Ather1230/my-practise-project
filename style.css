@@ -87,3 +87,25 @@ h2{
     border-bottom: 5px solid dodgerblue;
 
 }
+.channel{
+    background-color: #ADD8E6;
+    margin-left: 7%;
+    margin-right: 12%;
+    border-radius: 10px;
+}
+.triple-div{
+    width: 29%;
+    margin-left: 13%;
+    font-weight: 400;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color:cadetblue;
+    
+}
+.eat{
+    color: cornflowerblue;
+
+}
