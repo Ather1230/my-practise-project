@@ -33,10 +33,11 @@ h2{
     margin-bottom: 30px;
 }
 .link-button{
+    color: antiquewhite;
     text-decoration: none;
-    border-radius: 15px;
+    border-radius: 17px;
     background-image: linear-gradient(109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1%);
-    padding: 7px 15px;
+    padding: 8px 17px;
     font-size: 15px;
     
 }
@@ -47,12 +48,42 @@ h2{
 .about-p{
     margin-bottom: 55px;
 }
-..recipie-title{
+
+.recipie-title{
     width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 3px solid cornflowerblue;
+    padding: 7px;
+    border-radius: 5px;
+    margin-bottom: 30px;
 }
 .recipie-title h2{
-    text-align: center;
+    text-align:center;
+    color:cornflowerblue;
 }
 .cover{
-    width: 50%;
+    width: 60%;
+    border-radius: 15px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.recipie-cointainer{
+    width: 35%;
+    margin-left: 7.5%;
+    padding: 5px;
+}
+#Recipie-title1{
+    box-shadow: 0px 0px 20px dodgerblue;
+    border-radius: 10px;
+    border-left: 5px dotted cornflowerblue;
+    border-top: 5px solid dodgerblue;
+    
+}
+#Recipie-title2{
+    box-shadow: 0px 0px 15px cornflowerblue;
+    border-radius: 10px;
+    border-right: 5px dotted cornflowerblue;
+    border-bottom: 5px solid dodgerblue;
+
 }
