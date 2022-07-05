@@ -28,6 +28,7 @@ h2{
 }
 .hero-container h2{
     color: cornflowerblue;
+    font-weight: 400;
 }
 .hero-p {
     margin-bottom: 30px;
